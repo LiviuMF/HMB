@@ -1,0 +1,609 @@
+USER,BEER,QTY,PLACE,DESCRIPTION,DATETIME
+liviu,+ add beer,1.0,PLAY CAF�,beerpong,1
+liviu,+ add beer,1.0,PLAY CAF�,beerpong,2
+liviu,+ add beer,1.0,LA GARAJ,la garaj,3
+liviu,+ add beer,1.0,EUPHORIA,euphoria,4
+liviu,+ add beer,1.0,BOOHA,booha,5
+liviu,+ add beer,1.0,CLEO,cleo,6
+liviu,+ add beer,1.0,CLEO,cleoh,7
+liviu,CORONA,0.5,VLAHUTA,in za crib corona,8
+liviu,+ add beer,1.0,LE GENERAL,nea iancu. le jeneral,9
+liviu,+ add beer,1.0,LA GARAJ,la seliiy,10
+liviu,+ add beer,1.0,OLDSCHOOL,oldschool,11
+liviu,+ add beer,1.0,OLDSCHOOL,oldschool,12
+liviu,CORONA,1.0,JAXX,jaxx q corona @ sicas crib,13
+liviu,+ add beer,1.5,HASDATE,hasdste pasti,14
+liviu,+ add beer,1.0,HASDATE,hasdate,15
+liviu,BECKS,1.0,STUDIO 26,becks studio 26,16
+liviu,BECKS,1.0,STUDIO 26,----||---------,17
+liviu,+ add beer,2.0,SHADOW,shadow colegi,18
+liviu,+ add beer,1.0,BOOHA,booha,19
+liviu,+ add beer,1.0,BOOHA,booha seara lui grosu,20
+liviu,+ add beer,1.0,BOOHA,-------||-----------,21
+liviu,+ add beer,1.0,BOOHA,--------||-----------,22
+liviu,+ add beer,1.0,BOOHA,--------||-----------,23
+liviu,+ add beer,1.0,IC PONOR,ic ponor t28 iunie,24
+liviu,+ add beer,1.0,HATEG,bugeac cave,25
+liviu,+ add beer,1.0,BOOHA,booha,26
+liviu,+ add beer,1.0,BOOHA,booha bar fist bump chelnerita 30 sept 2k13,27
+liviu,+ add beer,1.0,BOOHA,booha 3 iulie,28
+liviu,+ add beer,1.0,BOOHA,booha,29
+liviu,+ add beer,1.0,BEYFIN,beyfin,30
+liviu,+ add beer,1.0,BEYFIN,beyfin colegii,31
+liviu,+ add beer,1.0,BOOHA,booha,32
+liviu,+ add beer,1.0,BOOHA,booha adi,33
+liviu,+ add beer,1.0,BOOHA,booha grosu,34
+liviu,+ add beer,1.0,BOOHA,booha,35
+liviu,+ add beer,1.0,BOOHA,booha,36
+liviu,+ add beer,1.0,PENINSULA,peninsula,37
+liviu,+ add beer,1.0,BOOHA,booha,38
+liviu,+ add beer,1.0,BOOHA,booha,39
+liviu,+ add beer,1.0,BOOHA,booha,40
+liviu,+ add beer,1.0,BOOHA,booha mox,41
+liviu,+ add beer,1.0,+ add place,film,42
+liviu,+ add beer,1.0,MOX,mox,43
+liviu,+ add beer,1.0,MOX,mox cipri,44
+liviu,+ add beer,1.0,CLUJ ARENA,cluj-arena darius,45
+liviu,+ add beer,1.0,BOILER,boiler 22 martie,46
+liviu,+ add beer,0.5,BOOHA,booha stadion,47
+liviu,+ add beer,1.0,+ add place,L'anniversaire,48
+liviu,+ add beer,1.0,BOOHA,booha ceas marius,49
+liviu,+ add beer,1.0,BOOHA,booha ceas marius,50
+liviu,+ add beer,1.0,MOX,maguri grindina,51
+liviu,+ add beer,1.0,MOX,maguri ziua 0,52
+liviu,+ add beer,1.0,MOX,maguri seara,53
+liviu,+ add beer,1.0,MOX,after-mox,54
+liviu,+ add beer,1.0,MOX,waterslide,55
+liviu,+ add beer,1.0,CAMPINEI,ciubi beerpong,56
+liviu,+ add beer,1.0,CAMPINEI,beerpong,57
+liviu,+ add beer,1.0,CAMPINEI,ciubi's crib,58
+liviu,+ add beer,1.0,SHELTER,shelter stef,59
+liviu,+ add beer,1.0,PUF,puff stef,60
+liviu,+ add beer,1.0,RUBY,ruby stef,61
+liviu,+ add beer,1.0,BOOHA,booha,62
+liviu,+ add beer,1.0,TUBE,tube :)���,63
+liviu,+ add beer,1.0,EUPHORIA,berarie ursus marcus,64
+liviu,+ add beer,1.0,BOILER,boiler jan bolimquist,65
+liviu,+ add beer,1.0,POLIVALENTA,RETRO polivalenta,66
+liviu,+ add beer,1.0,POLIVALENTA,RETRO polivalenta,67
+liviu,+ add beer,1.0,BOILER,boiler paul vecinu,68
+liviu,+ add beer,1.0,PRAGA,prague vojta,69
+liviu,+ add beer,1.0,HARDROCK,hardrock,70
+liviu,+ add beer,1.0,HOSTEL PLUS,beerpong hostel plus,71
+liviu,+ add beer,1.0,BOOHA,beerpong booha,72
+liviu,+ add beer,1.0,+ add place,numa a_e,73
+liviu,+ add beer,2.0,STUDIO 26,mudure ziua lui,74
+liviu,+ add beer,1.0,STUDIO 26,mudure studio 26,75
+liviu,+ add beer,1.0,STUDIO 26,mudure studio 26,76
+liviu,+ add beer,1.0,STUDIO 26,mudure studii 26,77
+liviu,+ add beer,2.0,EUPHORIA,mudure fabrica de bere,78
+liviu,+ add beer,1.0,BOOHA,booha mehmood,79
+liviu,+ add beer,2.0,BOOHA,booha grosu quentin,80
+liviu,+ add beer,1.0,SHELTER,shelter,81
+liviu,+ add beer,1.0,SHELTER,quentin&thidault,82
+liviu,+ add beer,2.0,SHELTER,shelterp,83
+liviu,+ add beer,1.0,BOILER,boiler pop killers,84
+liviu,+ add beer,1.0,LA PALAT,la palat marius,85
+liviu,+ add beer,2.0,+ add place,ziua mea,86
+liviu,+ add beer,2.0,+ add place,ziua mea,87
+liviu,+ add beer,1.0,+ add place,party firma,88
+liviu,+ add beer,1.0,MOX,MOX making of,89
+liviu,+ add beer,1.0,MOX,mox making of,90
+liviu,+ add beer,1.0,MOX,mox making of ziua lui helgu,91
+liviu,+ add beer,1.0,MOX,mox ursus cooler,92
+liviu,+ add beer,1.0,MOX,mox timisoreana,93
+liviu,+ add beer,1.0,MOX,mox becks,94
+liviu,+ add beer,1.0,MOX,moxxx,95
+liviu,+ add beer,1.0,MOX,moxxxx,96
+liviu,+ add beer,0.5,MOX,menmox,97
+liviu,+ add beer,2.0,MOX,mox foc,98
+liviu,+ add beer,3.0,MOX,after mox,99
+liviu,+ add beer,1.0,MOX,mox after,100
+liviu,+ add beer,0.5,+ add place,varsat bere pe mine in masina grosului,101
+liviu,+ add beer,1.0,MOX,after mox la foc,102
+liviu,+ add beer,1.0,MOX,after mox mancand mici,103
+liviu,+ add beer,1.0,JANIS,mudure vadim jjanis,104
+liviu,+ add beer,2.0,GREEN SENSATION,green sensation firas,105
+liviu,+ add beer,1.0,RIVIERA,riviera firas mehmood,106
+liviu,+ add beer,1.0,ALANDALA,alandala,107
+liviu,REINBERG,1.0,IBANESTI,ziua lui eugen ibanesti bere reinberg,108
+liviu,LAPUSNEANU,1.0,IBANESTI,ibanesti bere lapusan,109
+liviu,+ add beer,1.0,IBANESTI,eugen ibanesti,110
+liviu,+ add beer,3.0,MOX,voluntari mox berarie si studio 26,111
+liviu,STAROPRAMEN,1.0,STUDIO 26,staroprAmen,112
+liviu,STAROPRAMEN,1.0,STUDIO 26,staro studio 26 voluntari,113
+liviu,+ add beer,0.5,+ add place,raziiii,114
+liviu,+ add beer,1.0,DELAHOYA,delahoya,115
+liviu,BECKS,1.0,DELAHOYA,becks lemon delahoya,116
+liviu,+ add beer,1.0,DELAHOYA,delahoya pulanguran,117
+liviu,+ add beer,2.0,PIEZISA,anca piezisa,118
+liviu,+ add beer,0.5,INFINITY,infinity,119
+liviu,+ add beer,1.0,+ add place,romi bucuresti,120
+liviu,+ add beer,2.0,+ add place,mehmood 15 oct,121
+liviu,+ add beer,1.0,+ add place,mehmood 15,122
+liviu,+ add beer,1.0,+ add place,beerpong mehmood,123
+liviu,+ add beer,2.0,BOOHA,bere booha cerere incasatorie chirila,124
+liviu,+ add beer,1.0,MOX,bere booha grosu sica mox,125
+liviu,+ add beer,1.0,KRAKOW,bere tyskie polonia (jasne pelne),126
+liviu,+ add beer,1.0,KRAKOW,pe strada bere de la grosu in krakow,127
+liviu,+ add beer,1.0,+ add place,city lunch bere ce are gust de paine,128
+liviu,+ add beer,1.0,MACESULUI,topy vandut motor,129
+liviu,+ add beer,1.0,HATEG,bere larry,130
+liviu,+ add beer,1.0,+ add place,basket LIA,131
+liviu,+ add beer,1.0,OLD FRIENDS,bere old friends sica -maria,132
+liviu,+ add beer,1.0,BOOHA,booha sica grosu -mica,133
+liviu,+ add beer,1.0,BOOHA,booha,134
+liviu,+ add beer,1.0,BOOHA,booha grgs,135
+liviu,+ add beer,1.0,HASDATE,hasdate,136
+liviu,+ add beer,1.0,HATEG,larry balcon,137
+liviu,+ add beer,1.0,TUBE,tube 2 ani,138
+liviu,+ add beer,2.0,EUPHORIA,bere litru berarie,139
+liviu,+ add beer,1.0,CARO,bere grolsch caro darius,140
+liviu,+ add beer,1.0,+ add place,bere potaisa street zestrea,141
+liviu,+ add beer,2.0,MOX,cheguevara sedinta mox,142
+liviu,+ add beer,1.0,BOOHA,booha dupa tiff men suflat muci,143
+liviu,+ add beer,1.0,BOOHA,boohac,144
+liviu,+ add beer,1.0,BOOHA,booha,145
+liviu,+ add beer,1.0,WE LOVE RETRO,we love retro ziua lui marius,146
+liviu,+ add beer,1.0,MOX,promo party mox,147
+liviu,+ add beer,1.0,MOX,promo party mox,148
+liviu,+ add beer,1.0,MOX,promo party mox,149
+liviu,+ add beer,2.0,+ add place,ziua mea,150
+liviu,+ add beer,1.0,TUBE,bere ziua mea tube,151
+liviu,+ add beer,1.0,MOX,bere la mox making of,152
+liviu,+ add beer,1.0,MOX,mox ploaie cort,153
+liviu,+ add beer,1.0,MOX,mox ploaie cort,154
+liviu,+ add beer,1.0,BOOHA,booha trif grosu sedinta,155
+liviu,+ add beer,1.0,BOOHA,booha sica grosu sedinta mox,156
+liviu,+ add beer,1.0,BOOHA,hentea booha excursii,157
+liviu,+ add beer,1.0,MOX,mox foc joi,158
+liviu,+ add beer,3.0,MOX,mox sihastrie,159
+liviu,+ add beer,1.0,MOX,in timpul moxului,160
+liviu,+ add beer,5.0,MOX,mox after party,161
+liviu,+ add beer,1.0,VAMA,vama berea alui grosu pt paste,162
+liviu,+ add beer,1.0,VAMA,vama bere cu cosmin si grosu,163
+liviu,+ add beer,1.0,INVEST CAF�,bere invest cafe la tarnita,164
+liviu,+ add beer,2.0,ATELIER,irina flavia atelier,165
+liviu,+ add beer,1.0,+ add place,ziua lui cosmin,166
+liviu,+ add beer,2.0,+ add place,ziua lui hoppy,167
+liviu,+ add beer,1.0,OLD FRIENDS,old friends,168
+liviu,+ add beer,4.0,+ add place,ziua lu bunicu,169
+liviu,+ add beer,1.0,FORM,form,170
+liviu,+ add beer,1.0,MUNCHEN,munchen hostel,171
+liviu,+ add beer,2.0,EUPHORIA,berarie mare munchen,172
+liviu,+ add beer,2.0,SUETE,suete cu darius,173
+liviu,+ add beer,1.0,ATELIER,nenea iancu romi atelier,174
+liviu,+ add beer,1.0,+ add place,bere radler cucu joia mare,175
+liviu,+ add beer,1.0,+ add place,bere ziua lu vera,176
+liviu,+ add beer,1.0,MOX,bere sedinta mox,177
+liviu,+ add beer,1.0,+ add place,bere vadim bacelor,178
+liviu,+ add beer,1.0,MOX,bere sedinta mox suete,179
+liviu,+ add beer,1.0,+ add place,bere varu,180
+liviu,+ add beer,1.0,+ add place,bere varu ny,181
+liviu,+ add beer,1.0,+ add place,bere varu,182
+liviu,+ add beer,1.0,BIG APPLE,beri big apple,183
+liviu,+ add beer,1.0,+ add place,bere after tiff,184
+liviu,+ add beer,1.0,+ add place,bere after tiff,185
+liviu,+ add beer,1.0,+ add place,bere after tiff,186
+liviu,+ add beer,0.5,COTTON,bere bunicu angelo cotton,187
+liviu,+ add beer,1.0,MOX,ziua mea mox,188
+liviu,+ add beer,2.0,+ add place,bere ziua mea,189
+liviu,+ add beer,1.0,MOX,mox,190
+liviu,+ add beer,1.0,MOX,mox la foc,191
+liviu,+ add beer,1.0,+ add place,ziua lui larry,192
+liviu,+ add beer,1.0,+ add place,ziua lui larry,193
+liviu,+ add beer,1.0,+ add place,ziua lui larry,194
+liviu,+ add beer,3.0,MOX,mox sihastrie,195
+liviu,+ add beer,1.0,MOX,bere cu primaru la mox,196
+liviu,+ add beer,2.0,+ add place,bere la ziua lu primo si katy,197
+liviu,+ add beer,1.0,TRANIS,bere florian,198
+liviu,+ add beer,1.0,MOX,bere cort cu sihastrasii,199
+liviu,+ add beer,1.0,+ add place,bere dupa untold,200
+liviu,+ add beer,1.0,+ add place,bere grosu,201
+liviu,+ add beer,1.0,SUMMERWELL,bere summerwell,202
+liviu,+ add beer,1.0,SUMMERWELL,bere tudor sw,203
+liviu,+ add beer,0.5,SUMMERWELL,bere film sw,204
+liviu,+ add beer,1.0,SUMMERWELL,bere men fatza plansa,205
+liviu,+ add beer,1.0,+ add place,bere helgiu & bobo,206
+liviu,+ add beer,1.0,IASI,bere bolta rece iasi,207
+liviu,+ add beer,1.0,+ add place,bere din adidasi sandrei,208
+liviu,+ add beer,1.0,+ add place,bere din adidasii sandrei,209
+liviu,+ add beer,1.0,+ add place,bere larry cipriotul,210
+liviu,+ add beer,1.0,+ add place,cosmin ziua lui,211
+liviu,+ add beer,1.0,+ add place,bere hey men,212
+liviu,+ add beer,0.5,+ add place,bere ziua lui kiki,213
+liviu,+ add beer,3.0,MACESULUI,vadim cili con carne bun,214
+liviu,+ add beer,1.0,ATELIER,atelier peroni musai sound,215
+liviu,+ add beer,1.0,TOSKANA,bere carlsberg toskana,216
+liviu,+ add beer,1.0,COLLINS,stella python collins,217
+liviu,+ add beer,2.0,SOVIET,stella draft soviet,218
+liviu,+ add beer,1.0,FLORIN PIERSIC,untiold florin piersic,219
+liviu,+ add beer,1.0,BLVD 1 DEC,desperados sippy overwatch,220
+liviu,+ add beer,1.0,PIEZISA,holsten join piezisa,221
+liviu,+ add beer,1.0,BLVD 1 DEC,bere sippy argus tocanita,222
+liviu,+ add beer,1.0,EUPHORIA,bere sippy beraria culturala,223
+liviu,+ add beer,1.0,EUPHORIA,bere sippy beraria culturala,224
+liviu,+ add beer,1.0,ATELIER,bere atelier,225
+liviu,+ add beer,1.0,BLVD 1 DEC,argus chef sippy aripioare,226
+liviu,+ add beer,0.5,BLVD 1 DEC,argus chef sippy costite,227
+liviu,+ add beer,1.0,HARDROCK,hardrock budapest,228
+liviu,+ add beer,1.0,HARDROCK,hardrock,229
+liviu,+ add beer,2.0,+ add place,quizz night grosu ciubi,230
+liviu,+ add beer,1.0,KLAUSEN,chirila eduard bebe,231
+liviu,+ add beer,1.0,KLAUSEN,chirila eduard bebe klausen,232
+liviu,+ add beer,1.0,EUPHORIA,beraria culturala,233
+liviu,+ add beer,1.0,EUPHORIA,beraria culturala neomarxism,234
+liviu,+ add beer,1.0,ATELIER,bere atelier vadim,235
+liviu,+ add beer,1.0,ATELIER,bere atelier vadim aparat aparatura medicala,236
+liviu,+ add beer,1.0,ATELIER,bere vadim after party,237
+liviu,+ add beer,1.0,ATELIER,bunicu atelier,238
+liviu,+ add beer,1.0,LONDONER,varu in londoner,239
+liviu,+ add beer,1.0,RIVIERA,varu riviera,240
+liviu,+ add beer,1.0,EUPHORIA,bere ruben berarie,241
+liviu,+ add beer,1.0,ATELIER,bere atelier archlime,242
+liviu,+ add beer,1.0,ATELIER,bere ateler archlime,243
+liviu,+ add beer,1.0,EUPHORIA,bere enigma ghimbir,244
+liviu,+ add beer,1.0,SHADOW,shadow peroni,245
+liviu,+ add beer,1.0,PIAZZETA,ciuc piazzeta pizza vegetariana,246
+liviu,+ add beer,1.0,PIEZISA,valca rusu nemteana blonda blend piezisa sunstests,247
+liviu,+ add beer,1.0,CLUJ ARENA,0.5 bere cluj arena men atza elastica,248
+liviu,+ add beer,0.5,MARISEL,bere marisel vara lu cosmin,249
+liviu,+ add beer,1.0,CLUJ ARENA,bere arena cosmin larry,250
+liviu,+ add beer,1.0,+ add place,bere cosmin blend,251
+liviu,+ add beer,1.0,BOOHA,booha cosmin,252
+liviu,+ add beer,1.0,SOLAS,cosmin solas,253
+liviu,+ add beer,1.0,+ add place,piata muzeului,254
+liviu,+ add beer,1.0,+ add place,muzeului potra,255
+liviu,+ add beer,1.0,RIVIERA,riviera zorilor varu,256
+liviu,+ add beer,1.0,RIVIERA,riviera varu,257
+liviu,+ add beer,1.0,ATELIER,bere grosu ate,258
+liviu,+ add beer,1.0,MOX,bere grosu ate pt mox,259
+liviu,+ add beer,0.5,+ add place,bere artizanala arogant,260
+liviu,+ add beer,1.0,+ add place,bere heineken makeba,261
+liviu,+ add beer,0.5,+ add place,bere heartbreaker,262
+liviu,+ add beer,1.0,CLUJ ARENA,bere silva sippy scari,263
+liviu,+ add beer,0.5,MACESULUI,bere vadim heineken,264
+liviu,+ add beer,0.5,+ add place,bere sica intrare sunsets,265
+liviu,+ add beer,1.0,MOX,bere booha sedinta mox beard brothers,266
+liviu,+ add beer,1.0,MOX,bere booha sedinta mox bb,267
+liviu,+ add beer,1.0,ACASA,bere acasa licitatie crowd control,268
+liviu,+ add beer,1.0,ACASA,bere acasa licitatie ipa 60,269
+liviu,+ add beer,1.0,ACASA,bere acasa licitatie men,270
+liviu,+ add beer,1.0,+ add place,bere retro grosu,271
+liviu,+ add beer,0.5,EUPHORIA,bere licitatie hophead sippy arena,272
+liviu,+ add beer,1.0,INVEST CAF�,bere licitatie f buna zabava de la kutuma,273
+liviu,+ add beer,1.0,INVEST CAF�,bere licitatie f buna zarca de la kutuma,274
+liviu,+ add beer,1.0,HASDATE,bere nemteana licitatie la hasdate,275
+liviu,+ add beer,1.0,HASDATE,bere ursus retro cu daniel hasdate,276
+liviu,+ add beer,1.0,HASDATE,ursus retro cu bebelusii hasdate,277
+liviu,+ add beer,1.0,+ add place,bere retro cu grosu,278
+liviu,+ add beer,1.0,ATELIER,bere retro cu grosu atelier,279
+liviu,+ add beer,1.0,ATELIER,bere stela intalnire 10 ani,280
+liviu,+ add beer,1.0,SINAIA,bere intalnire 10 ani becks,281
+liviu,+ add beer,1.0,SINAIA,bere intalnire 10 ani stelak,282
+liviu,+ add beer,1.0,SINAIA,bere stella 10 ani stela,283
+liviu,+ add beer,1.0,SINAIA,bere stella 10 ani intalnirq,284
+liviu,+ add beer,0.5,BOOHA,bere bergenbier ale la dulau,285
+liviu,+ add beer,0.5,BOOHA,dulau,286
+liviu,+ add beer,1.0,CLUJ ARENA,bere sippy arena,287
+liviu,+ add beer,0.5,MOX,bere ziua lui sica sihastrie,288
+liviu,+ add beer,1.0,TRANIS,bere florian,289
+liviu,+ add beer,2.0,MOX,bere la foc mox pizza pe vatra,290
+liviu,+ add beer,1.0,MOX,bere la foc cu chirila,291
+liviu,+ add beer,1.0,MOX,bere foisor mox pe ploaie,292
+liviu,+ add beer,1.0,MOX,bere larry wcuri,293
+liviu,+ add beer,1.0,MOX,bere larry wcuri,294
+liviu,+ add beer,1.0,MOX,bere larry wcuri,295
+liviu,+ add beer,1.0,MOX,bere larry & kooho,296
+liviu,+ add beer,1.0,MOX,bere larry foisor,297
+liviu,+ add beer,1.0,MOX,bere after mox,298
+liviu,+ add beer,1.0,MOX,bere after mox,299
+liviu,+ add beer,1.0,ELECTRIC CASTLE,bere ec dragos vadim,300
+liviu,+ add beer,1.0,+ add place,bere ziua lui larry,301
+liviu,+ add beer,1.0,+ add place,bere ziua lui larry cu men,302
+liviu,+ add beer,1.0,+ add place,bere ziua lui larry luna,303
+liviu,+ add beer,1.0,+ add place,stella ziua lui larry,304
+liviu,+ add beer,1.0,MURES,csikisor nunta lui dulau,305
+liviu,+ add beer,1.0,MURES,csikisor nunta dulau,306
+liviu,+ add beer,1.0,+ add place,ursus retro maria,307
+liviu,+ add beer,1.0,CARO,bere colegi caro,308
+liviu,+ add beer,1.0,CARO,bere colegi car,309
+liviu,+ add beer,1.5,CHEGUEVARA,bere men cheguevara,310
+liviu,+ add beer,1.0,OLD FRIENDS,bere old friends ziua mela si cristian,311
+liviu,+ add beer,1.0,OLD FRIENDS,bere old friends ziua mea si cristian holstsn nefiltratA,312
+liviu,+ add beer,1.0,OLD FRIENDS,bere old friends� ziua mela si cristian,313
+liviu,+ add beer,1.0,+ add place,bere ciuc doza,314
+liviu,+ add beer,1.0,+ add place,bere ciuc doza foc,315
+liviu,+ add beer,0.5,BARCELONA,bere barcelona,316
+liviu,+ add beer,0.5,BARCELONA,bere barcelona moritz,317
+liviu,+ add beer,1.0,BARCELONA,tio pio barcelona men,318
+liviu,+ add beer,1.0,BARCELONA,bere cu men in hardrock,319
+liviu,+ add beer,0.5,BARCELONA,bere cu men la hardrock,320
+liviu,ESTRELLA,1.0,BARCELONA,bere cu men pe arca bar�a,321
+liviu,ESTRELLA,1.0,BARCELONA,bere cu men pe arca bar�a,322
+liviu,+ add beer,1.0,GEBO TOOLS,bere vadim la lucru,323
+liviu,+ add beer,1.0,CLUJ ARENA,bere sippy malul somesului,324
+liviu,+ add beer,0.5,ATELIER,bere gratis in atelier,325
+liviu,+ add beer,0.5,ATELIER,bere gratis in atelier,326
+liviu,+ add beer,1.0,+ add place,bere romica,327
+liviu,+ add beer,1.0,+ add place,bere romica,328
+liviu,+ add beer,1.0,+ add place,bere hoegarden helgiu,329
+liviu,+ add beer,1.0,BOOHA,bere stella booha,330
+liviu,+ add beer,0.5,BOOHA,booha grosu helgu,331
+liviu,+ add beer,1.0,LA GAZZETE,bere gazzets grosu sica,332
+liviu,+ add beer,1.0,MACESULUI,bere topy afterwork,333
+liviu,+ add beer,1.0,MACESULUI,bere topy afterwork,334
+liviu,+ add beer,1.0,MACESULUI,bere topy afterwork,335
+liviu,+ add beer,1.0,MACESULUI,bere topy afterwork,336
+liviu,+ add beer,1.0,TOSKANA,bere eugen toskan,337
+liviu,+ add beer,1.0,TOSKANA,bere eugen toskana,338
+liviu,+ add beer,2.0,LONDONER,bere terapia gold londoner,339
+liviu,+ add beer,1.0,+ add place,bere heineken ziua lui cosmin,340
+liviu,+ add beer,1.0,+ add place,bere tuborg men sclifoprintzi,341
+liviu,+ add beer,0.5,+ add place,bere tuborg men calduta,342
+liviu,+ add beer,1.0,MOX,bere weihenstephaner sedinta mox,343
+liviu,+ add beer,3.0,MOX,beri cu voluntarii mox cand m-am oprit din mox,344
+liviu,+ add beer,1.0,EUPHORIA,bere fabrica de lideri,345
+liviu,+ add beer,0.5,URANIA,bere urania score,346
+liviu,+ add beer,1.0,GEBO TOOLS,bere vadim,347
+liviu,+ add beer,1.0,KOLN,bere schofferhofer men in koln,348
+liviu,+ add beer,1.0,KOLN,bere peter kolsh im krug koln,349
+liviu,+ add beer,0.5,KOLN,bere kolsh men koln,350
+liviu,+ add beer,0.5,KOLN,bere kolsh men koln,351
+liviu,+ add beer,1.0,BOOHA,bere emil cata booha,352
+liviu,+ add beer,1.0,GEBO TOOLS,bere vadim @exposed,353
+liviu,+ add beer,1.0,GEBO TOOLS,bere vadim @exposed,354
+liviu,+ add beer,0.5,+ add place,bere carciuna din sat,355
+liviu,+ add beer,0.5,+ add place,bere corona mircea,356
+liviu,+ add beer,0.5,SERE,bere heinken la sere,357
+liviu,+ add beer,0.5,SERE,bere heineken la sere,358
+liviu,+ add beer,2.0,BOOHA,beri booha csikisor,359
+liviu,+ add beer,1.0,BOOHA,ber booha,360
+liviu,+ add beer,1.0,BLVD 1 DEC,bere becks sippy,361
+liviu,+ add beer,1.0,+ add place,bere csikisor,362
+liviu,+ add beer,1.0,+ add place,nemteana ziua lui rotariu,363
+liviu,+ add beer,1.0,+ add place,valentins la hostel cu tudor,364
+liviu,+ add beer,0.5,+ add place,bere nuenarkt ziua lui tudor,365
+liviu,+ add beer,1.0,+ add place,bere jamaga sanzo pancho,366
+liviu,+ add beer,1.0,ATELIER,bere retro atelier helgiu,367
+liviu,+ add beer,1.0,MOONSHINE,bere nemteana helgiu moonshine,368
+liviu,+ add beer,1.0,+ add place,bere timi nepa,369
+liviu,+ add beer,1.0,ATELIER,bere timi nepa helgiu grosu atelier,370
+liviu,+ add beer,0.5,+ add place,bere heineken,371
+liviu,+ add beer,0.5,CLUJ ARENA,heineken polivalenta,372
+liviu,+ add beer,0.5,CLUJ ARENA,poli,373
+liviu,+ add beer,1.0,+ add place,edelweiss,374
+liviu,+ add beer,1.0,+ add place,edlelweiss sica,375
+liviu,+ add beer,1.0,GEBO TOOLS,tuborg ziua lui vadim la munca,376
+liviu,+ add beer,1.0,+ add place,hoslten ziua lu men,377
+liviu,+ add beer,2.0,CHEGUEVARA,beri ziua lu potra cheguevara,378
+liviu,+ add beer,2.0,CHEGUEVARA,beri cu grosu si helgiu in scheguevara,379
+liviu,+ add beer,2.0,CHEGUEVARA,beri cu grosu helgiu scheguevara,380
+liviu,+ add beer,1.0,MOX,bere sedinta mox,381
+liviu,+ add beer,1.0,EUPHORIA,bere sipi beraria culturala,382
+liviu,+ add beer,1.0,FORM,bere form cafe,383
+liviu,+ add beer,1.0,FORM,bere form cafe,384
+liviu,+ add beer,0.5,FORM,bere form.cafe,385
+liviu,+ add beer,1.0,CLUJ ARENA,bere sippy cluj arena,386
+liviu,+ add beer,1.0,LISBOA,bere men lisboa,387
+liviu,SAGRES,1.0,LISBOA,bere men� caparica sagres + cristal,388
+liviu,+ add beer,1.0,GEBO TOOLS,bere exposeddigital tb,389
+liviu,+ add beer,1.0,+ add place,bere bunicu helgiu dupa lisboa,390
+liviu,+ add beer,1.0,+ add place,bere bunicu helgiu dupa lisboa,391
+liviu,+ add beer,1.0,+ add place,bere bunicu helgiu dupa lisboa,392
+liviu,+ add beer,1.0,+ add place,bere grosu ziua lui,393
+liviu,+ add beer,1.0,+ add place,bere grosu ziua lui,394
+liviu,+ add beer,1.0,+ add place,bere grosu ziua lui,395
+liviu,+ add beer,1.0,+ add place,bere tata 30 ani,396
+liviu,+ add beer,0.5,+ add place,berw ziua mea la.gabi sipos,397
+liviu,+ add beer,1.0,HASDATE,bere ziua mea hasdate ursus retro,398
+liviu,+ add beer,1.0,HASDATE,bere becks de ziua mea hasdate,399
+liviu,BECKS,1.0,HASDATE,bere becks de ziua mea� hasdate,400
+liviu,+ add beer,1.0,MOX,bere florian vineri mox,401
+liviu,+ add beer,1.0,MOX,bere florian vineri mox,402
+liviu,+ add beer,1.0,MOX,bere florian vineri mox8,403
+liviu,+ add beer,1.0,MOX,bere florian pe masina,404
+liviu,+ add beer,1.0,MOX,bere florian pe masina,405
+liviu,+ add beer,1.0,+ add place,bere larry ziua lui,406
+liviu,+ add beer,1.0,+ add place,bere larry ziua lui,407
+liviu,+ add beer,1.0,+ add place,bere larry ziua lui,408
+liviu,+ add beer,0.5,+ add place,ziua lu larry,409
+liviu,+ add beer,0.5,+ add place,ziua larry,410
+liviu,+ add beer,1.0,ELECTRIC CASTLE,bere zum zum zum electroclown,411
+liviu,+ add beer,1.0,ELECTRIC CASTLE,bere zum zum electro,412
+liviu,+ add beer,2.0,COTTON,bere carlsberg si holsten cotton grigo,413
+liviu,+ add beer,1.0,COTTON,bere carlsberg cotton,414
+liviu,+ add beer,1.0,+ add place,bere holsten ziua delean,415
+liviu,+ add beer,1.0,+ add place,bere holsten delean,416
+liviu,+ add beer,1.0,HASDATE,bere bunicu taiat lemne,417
+liviu,+ add beer,1.0,ACASA,bere mela acasa,418
+liviu,+ add beer,1.0,SUMMERWELL,bere summerwell vlad,419
+liviu,+ add beer,0.5,BUCURESTI,bere buc,420
+liviu,+ add beer,1.0,+ add place,bere grosu,421
+liviu,+ add beer,2.0,SMIDA,bere grosu smida,422
+liviu,+ add beer,1.0,SMIDA,bere grosu smida si bianu,423
+liviu,+ add beer,1.0,SMIDA,bere bianu smida,424
+liviu,+ add beer,2.0,DURUSA,bere durusa,425
+liviu,+ add beer,1.0,+ add place,bere de bulevard,426
+liviu,+ add beer,1.0,+ add place,bere de bulevard,427
+liviu,+ add beer,1.0,+ add place,bere ursus retro,428
+liviu,+ add beer,1.0,JELNA,bere staro bistrita jelna,429
+liviu,+ add beer,1.0,OLD FRIENDS,bere carlsberg old friends,430
+liviu,+ add beer,1.0,OLD FRIENDS,bere holsten wiezen old friends,431
+liviu,SILVA,1.0,BOOHA,bere silva booha,432
+liviu,+ add beer,1.0,HASDATE,bere ciucas hasdate lemne,433
+liviu,+ add beer,1.0,HASDATE,bere becks hasdate lemne,434
+liviu,+ add beer,0.5,+ add place,bere ipa romi,435
+liviu,+ add beer,1.0,+ add place,bere romi suceava,436
+liviu,+ add beer,1.0,+ add place,bere romi calimani,437
+liviu,+ add beer,1.0,BOOHA,bere hoegarden booha,438
+liviu,+ add beer,1.0,BOOHA,bere hoegarden booha,439
+liviu,+ add beer,0.5,COTTON,bere blanc cotton,440
+liviu,+ add beer,1.0,COTTON,bere holsten cotton,441
+liviu,+ add beer,1.0,ATELIER,bere atelier,442
+liviu,+ add beer,0.5,GEBO TOOLS,bere la lucru,443
+liviu,+ add beer,2.0,EUPHORIA,bere euforia mela si cosmin,444
+liviu,+ add beer,0.5,MADRID,bere madrid,445
+liviu,+ add beer,0.5,MADRID,bere ionel spania,446
+liviu,+ add beer,1.0,CHEGUEVARA,bere cucu cheguevara,447
+liviu,+ add beer,1.0,CHEGUEVARA,bere cucu cheguevara,448
+liviu,+ add beer,1.0,BOOHA,bere larry booha,449
+liviu,+ add beer,1.0,ACASA,bere sippy la mine,450
+liviu,+ add beer,1.0,TOSKANA,bere florian toskana,451
+liviu,+ add beer,1.0,TOSKANA,bere florian toskana,452
+liviu,+ add beer,1.0,+ add place,bere retro bunicu helgiu rotariu,453
+liviu,+ add beer,2.0,BOOHA,bere larry mela booha,454
+liviu,+ add beer,1.0,BOOHA,bere stella booha (daca a ajuns acolo unde trebuia acolo a fost - sica / cand ai futut ai dat chitanta - bunicu),455
+liviu,+ add beer,0.5,+ add place,bere nelu becks,456
+liviu,+ add beer,1.0,ATELIER,bere stejar grosu atelier,457
+liviu,+ add beer,1.0,ATELIER,ber estejar grosu atelier,458
+liviu,+ add beer,1.0,+ add place,bere grosu,459
+liviu,+ add beer,1.0,ATELIER,bere efes atelier verii,460
+liviu,+ add beer,1.0,KLAUSEN,bere indigen klausenburger,461
+liviu,+ add beer,1.0,KLAUSEN,bere red revolution,462
+liviu,+ add beer,0.5,+ add place,bere islandeza covid,463
+liviu,+ add beer,1.0,KLAUSEN,bere red revolution,464
+liviu,+ add beer,0.5,+ add place,bere heineken grosu,465
+liviu,+ add beer,1.0,+ add place,bere nemteana grosu concubinaj,466
+liviu,+ add beer,1.0,MADRID,bere madri grosu concubinaj,467
+liviu,+ add beer,0.5,+ add place,bere san miguel grosu,468
+liviu,+ add beer,1.0,AVRIG,bere azuga grosu,469
+liviu,+ add beer,1.0,AVRIG,bere ursus black grosu,470
+liviu,+ add beer,1.0,AVRIG,stella cabana sibiu,471
+liviu,+ add beer,0.5,AVRIG,ciuc cabana sibiu,472
+liviu,+ add beer,0.5,SIBIU,bere heineken sibiu,473
+liviu,+ add beer,0.5,SIBIU,birra morreti sibiu,474
+liviu,+ add beer,0.5,+ add place,bere ziua mea verii,475
+liviu,+ add beer,1.0,VLAHUTA,bere ziua mea suceava,476
+liviu,+ add beer,1.0,VLAHUTA,bere suceava ziua mea,477
+liviu,+ add beer,1.0,COTTON,bere holsten wizen cotton,478
+liviu,+ add beer,1.0,COTTON,bere bucur draught cotton,479
+liviu,+ add beer,1.0,COTTON,bere 1664 draught cotton,480
+liviu,+ add beer,1.0,+ add place,draught staropramen ziua lui delean,481
+liviu,+ add beer,1.0,BARI,bere gara bari,482
+liviu,+ add beer,1.0,BARI,peroni cruda bari,483
+liviu,+ add beer,1.0,ROMA,peroni coloseum,484
+liviu,+ add beer,1.0,ACASA,bere cosmin vidraru,485
+liviu,+ add beer,0.5,+ add place,bere zipfer cosmin,486
+liviu,+ add beer,0.5,ACASA,bere poppels romi,487
+liviu,+ add beer,1.0,ACASA,bere clusa pe vidraru,488
+liviu,+ add beer,1.0,KLAUSEN,bere weizen klausen mudure,489
+liviu,+ add beer,1.0,KLAUSEN,bere klausen mudure,490
+liviu,+ add beer,0.5,SIBIU,bere heineken grosu sibiu,491
+liviu,+ add beer,0.5,SIBIU,bere heineken grosu sibiu,492
+liviu,+ add beer,0.5,SIBIU,bere grosu sibiu,493
+liviu,+ add beer,0.5,ACASA,bere vidraru liviutzu,494
+liviu,+ add beer,1.0,+ add place,bere geno ziua lui vadim,495
+liviu,+ add beer,0.5,ACASA,bere grosu bachelora acasa,496
+liviu,+ add beer,1.0,+ add place,bere stella grosu,497
+liviu,+ add beer,1.0,+ add place,bere stella grosu,498
+liviu,+ add beer,1.0,+ add place,bere stella grosu,499
+liviu,+ add beer,1.0,+ add place,bere stella grosu,500
+liviu,+ add beer,1.0,KLAUSEN,bere red revolution,501
+liviu,+ add beer,0.5,GEBO TOOLS,bere ziua alpar,502
+liviu,+ add beer,0.5,MOGOSOAIA,bere pasti mirciocu,503
+liviu,+ add beer,0.5,ACASA,bere dupa mici acass,504
+liviu,+ add beer,1.0,SPLIT,bere karlovacho epetum,505
+liviu,+ add beer,1.0,KLAUSEN,bere ozujsko men faleza,506
+liviu,+ add beer,0.5,FLORESTI,bere sorana absolvire,507
+liviu,+ add beer,0.5,FLORESTI,bere sorana absolvire,508
+liviu,+ add beer,0.5,REHEBOT,cata finutu bere� rehebot,509
+liviu,ZIPFER,0.5,ACASA,bere zipfer grosu acasa,510
+liviu,STAROPRAMEN,1.0,KLAUSEN,bere staropramen ziua sica,511
+liviu,BECKS,0.5,KLAUSEN,bere becks ziua lui sica,512
+liviu,CSIKISOR,0.5,+ add place,bere� csikisor,513
+liviu,+ add beer,1.0,KLAUSEN,stella,514
+liviu,+ add beer,1.0,+ add place,bere edelweiss finutu ziua mea,515
+liviu,+ add beer,1.0,+ add place,bere birra moreti finutu ziua mea 33,516
+liviu,+ add beer,0.5,BARCELONA,bere barcelona,517
+liviu,+ add beer,1.0,+ add place,bere tata ziua mea,518
+liviu,+ add beer,1.0,ACASA,bere cucu bunuso acasa,519
+liviu,+ add beer,0.5,+ add place,bericica men dupa steak,520
+liviu,CLUSA,1.0,KLAUSEN,clusa razvan klausen,521
+liviu,+ add beer,0.5,KLAUSEN,bere clusa razvan klausen,522
+liviu,+ add beer,1.0,KLAUSEN,bere clusa mudure fest klausen,523
+liviu,+ add beer,1.0,+ add place,bere weistefan maja vizita marc,524
+liviu,+ add beer,1.5,+ add place,bere kozel 0.66 mirciocu,525
+liviu,+ add beer,1.0,+ add place,bere paulaner baie marc,526
+liviu,+ add beer,0.5,+ add place,bere heineken livia vizita marc,527
+liviu,+ add beer,0.5,PENTALOG,grolsch pentalog 5 decembrie,528
+liviu,+ add beer,0.5,ACASA,bere heineken dupa big belly burger,529
+liviu,+ add beer,0.5,EPOCA BELLA,bere peroni draught epoca bella,530
+liviu,+ add beer,0.5,ACASA,bere capri acasa,531
+liviu,+ add beer,1.0,HASDATE,bere timisoreana hasdate,532
+liviu,+ add beer,1.0,ACASA,bere calsberg ipa acasa,533
+liviu,+ add beer,2.0,+ add place,bere ursus 1L mudure fest,534
+liviu,+ add beer,1.0,+ add place,bere ursus azuga nefiltrata,535
+liviu,+ add beer,1.0,+ add place,peroni draught,536
+liviu,+ add beer,0.5,ACASA,duvel acasa dupa chili,537
+liviu,+ add beer,1.0,EUPHORIA,azuga nefiltrata beergarden,538
+liviu,+ add beer,0.5,ACASA,duvell acasa men cu paste,539
+liviu,+ add beer,1.0,ACASA,stella artois acasa cartofi prajiti,540
+liviu,+ add beer,1.0,ACASA,stella artois acasa la america express,541
+liviu,+ add beer,1.0,ACASA,skoll acasa,542
+liviu,+ add beer,1.0,+ add place,blanc draft mudute,543
+liviu,+ add beer,1.0,+ add place,blanc draft,544
+liviu,+ add beer,1.0,+ add place,heineken draft form,545
+liviu,+ add beer,1.0,+ add place,heineken draft,546
+liviu,+ add beer,1.0,ACASA,efes draft acasa,547
+liviu,+ add beer,1.0,FORM,edelweis pastor foem,548
+liviu,+ add beer,1.0,ACASA,nemteana acasa,549
+liviu,+ add beer,1.0,ACASA,bere praha acasa,550
+liviu,+ add beer,1.0,ACASA,bere lasagna acasa kozel dark,551
+liviu,+ add beer,1.0,KLAUSEN,bere paulaner a mudure klausen,552
+liviu,+ add beer,1.0,ACASA,bere staropramen acasa costite,553
+liviu,+ add beer,1.0,ACASA,bere kosel acasa costite,554
+liviu,+ add beer,1.0,ACASA,guiness costite acasa,555
+liviu,+ add beer,0.5,ACASA,kosel lasagna,556
+liviu,+ add beer,0.5,ACASA,kosel castite,557
+liviu,+ add beer,0.5,+ add place,5 duvel de pasti,558
+liviu,+ add beer,0.5,VALENCIA,turia vale,559
+liviu,+ add beer,0.5,VALENCIA,voll damm vale,560
+liviu,+ add beer,0.5,VALENCIA,bere vallle cruzcampo,561
+liviu,+ add beer,0.5,VALENCIA,bere estrella galicia valle,562
+liviu,+ add beer,1.0,VALENCIA,bere altura de vuelo valle,563
+liviu,+ add beer,0.5,+ add place,bere galana cu piersicuta valle,564
+liviu,+ add beer,0.5,+ add place,bere duvel triple hop ipa,565
+liviu,BERNARD,1.0,ACASA,bere� bernard sebi,566
+liviu,+ add beer,0.5,ACASA,kozel acasa cios lotr 2,567
+liviu,+ add beer,0.5,ACASA,stella acasa zm burrito,568
+liviu,+ add beer,1.0,+ add place,edelweiss ziua lu grosu,569
+liviu,+ add beer,1.0,+ add place,edelweis ziua lui grosu,570
+liviu,+ add beer,0.5,+ add place,edelweiss ziua lui grosu,571
+liviu,+ add beer,1.0,+ add place,bere capri ziua mea,572
+liviu,+ add beer,0.5,+ add place,bere duvell ziua mea,573
+liviu,+ add beer,0.5,+ add place,bere 1664 ziua mea,574
+liviu,+ add beer,1.0,+ add place,duvel + 1664 mirciocu,575
+liviu,+ add beer,1.0,+ add place,paulaner weissbier,576
+liviu,+ add beer,1.0,+ add place,paulaner klausen ziua mea,577
+liviu,+ add beer,1.0,+ add place,paulaner la. draft,578
+liviu,+ add beer,1.0,+ add place,heineken silver dorin,579
+liviu,+ add beer,1.0,ACASA,skoll acasa,580
+liviu,+ add beer,0.5,+ add place,morreti ziua men duminica,581
+liviu,+ add beer,0.5,+ add place,bere birra moretti duminica ziua men,582
+liviu,+ add beer,1.0,ACASA,birra. morreti acasa,583
+liviu,+ add beer,1.5,BARCELONA,bere estrella barcelona,584
+liviu,+ add beer,1.5,BARCELONA,bere estrella barcelona,585
+liviu,+ add beer,1.0,BARCELONA,bere cu lamaie barce,586
+liviu,+ add beer,1.5,BARCELONA,bere estrella si asahi dupa sushi,587
+liviu,+ add beer,0.5,BARCELONA,bere estrella barce,588
+liviu,+ add beer,0.5,+ add place,bere asahi,589
+liviu,+ add beer,0.5,+ add place,bere 1664 flori varu,590
+liviu,+ add beer,1.0,+ add place,bere kozel finutu,591
+liviu,+ add beer,1.0,GHI,bere nunta lu varu,592
+liviu,+ add beer,1.0,ACASA,bere carnival nenea iancu pizza acasa,593
+liviu,+ add beer,0.5,+ add place,birra morreti sali di mare,594
+liviu,+ add beer,0.5,+ add place,bere heineken ziua mea cazare,595
+liviu,+ add beer,1.0,HASDATE,bere albacher hasdate ziua mea,596
+liviu,+ add beer,1.0,HASDATE,bere perlenbacher hasdate ziua mea,597
+liviu,+ add beer,1.0,+ add place,bere kozel ziua mea hasdate,598
+liviu,+ add beer,0.5,ACASA,praga acas ajocurile olimpice,599
+liviu,+ add beer,1.0,EUPHORIA,bere fabrica de bere mudure,600
+liviu,+ add beer,0.5,PRAID,bere staropramen praid,601
+liviu,+ add beer,1.0,PRAID,weistephan,602
+liviu,+ add beer,0.5,PRAID,bere peroni praid,603
+liviu,+ add beer,1.0,VIDRARU,bere nemteana,604
+liviu,+ add beer,0.5,VIDRARU,bere asahi acasa OA,605
+liviu,+ add beer,1.0,VIDRARU,bere kozel. mamaliga cu carnat,606
+liviu,+ add beer,1.0,EUPHORIA,bere kozel. fabriva de berr,607
+liviu,+ add beer,0.5,VIDRARU,bere estrella bcn acasa,608
